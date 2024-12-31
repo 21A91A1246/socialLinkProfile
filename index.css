@@ -12,7 +12,8 @@ body{
 
 }
 #innerDiv{
-    border: 2px solid white;
+
+    margin-top: 200px;
     height: 630px;
     width: 300px;
     background-color:  hsl(0, 0%, 12%);
